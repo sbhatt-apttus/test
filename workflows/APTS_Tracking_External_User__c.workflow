@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
     <alerts>
-        <fullName>External_User_Email_Sender</fullName>
+        <fullName>External_User_Email_Sender11</fullName>
         <description>External_User_Email_Sender</description>
         <protected>false</protected>
         <recipients>
